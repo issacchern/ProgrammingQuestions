@@ -7,7 +7,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import leetcode.LeetCode;
 
 public class Main {
 	public static void main(String[] args){
@@ -697,11 +696,12 @@ public class Main {
 		else if(num > 67 && num < 74) path = "src/careercup/StackAndQueue.java";
 		else if(num > 73 && num < 86) path = "src/careercup/TreeAndGraph.java";
 		else if(num > 85 && num < 95) path = "src/careercup/BitManipulation.java";
-		else if(num > 94 && num < 105) path = "src/careercup/MathAndLogicPuzzle.java";
+		else if(num > 94 && num < 105) return;
 		else if(num > 104 && num < 117) return;
 		else if(num > 116 && num < 131) path = "src/careercup/RecursionAndDynamicProgramming.java";
 		else if(num > 130 && num < 139) return;
 		else if(num > 138 && num < 150) path = "src/careercup/SortingAndSearching.java";
+		else if(num > 149) path = "src/other/Other.java";
 		
 		try{
 			BufferedReader br2 = new BufferedReader(new FileReader(path));

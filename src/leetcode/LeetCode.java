@@ -5,7 +5,7 @@ import java.util.*;
 
 public class LeetCode {
 	
-	static class Node{
+	public static class Node{
 		
 		int data;
 		Node next;
@@ -15,7 +15,7 @@ public class LeetCode {
 		}
 	}
 	
-	static class RandomListNode{
+	public static class RandomListNode{
 		RandomListNode next;
 		int label;
 		RandomListNode random;
@@ -25,7 +25,7 @@ public class LeetCode {
 		}	
 	}
 	
-	static class TreeNode{
+	public static class TreeNode{
 		int val;
 		TreeNode left;
 		TreeNode right;
@@ -364,7 +364,7 @@ public class LeetCode {
 	
 	/*	Question 14.
 	 * 	Given two strings S and T , determine if they are both one edit distance apart.
-	 *  O(n^2) runtime, O(1) space
+	 *  O(n) runtime, O(1) space
 	 */
 	
 	public static boolean isOneEditDistance(String s , String t){
@@ -503,8 +503,8 @@ public class LeetCode {
 			int x = (p != null) ? p.data : 0;
 			int y = (q != null) ? q.data : 0;
 			int digit = carry + x + y;
-			carry = digit / 10;
-			curr.next = new Node(digit % 10);
+			carry = digit / 10; //carry number
+			curr.next = new Node(digit % 10); //remaining number
 			curr = curr.next;
 			if(p != null) p = p.next;
 			if(q != null) q = q.next;	

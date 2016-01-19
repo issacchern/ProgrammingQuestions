@@ -11,7 +11,7 @@ Leetcode Questions:
 10. [Array and String] Longest substring without repeating characters
 11. [Array and String] Longest substring with at most two distinct characters
 12. [Array and String] Missing Ranges
-13. [Array and String] Longest Palindromic Substring
+13. [Array and String] Longest Palindrome Substring
 14. [Array and String] One edit distance
 15. [Array and String] Read N characters given Read4
 16. [Array and String] Read N characters given Read4 (call multiple times)
@@ -26,7 +26,7 @@ Leetcode Questions:
 25. [Binary Tree] Validate binary search tree
 26. [Binary Tree] Maximum depth of binary tree
 27. [Binary Tree] Minimum depth of binary tree
-28. [Binary Tree] Balanced binary tree
+28. [Binary Tree] Check Balanced binary tree
 29. [Binary Tree] Convert sorted array to balance binary search tree
 30. [Binary Tree] Convert sorted list to balanced binary search tree
 31. [Binary Tree] Binary tree maximum path sum
@@ -51,33 +51,33 @@ Leetcode Questions:
 50. [Binary Search] Find minimum in sorted rotated array (with duplicates)
 
 CareerCup Questions:
-51. [String and Array] Is every character unique in a given string? 
+51. [String and Array] Is Unique
 52. [String and Array] Check permutation
-53. [String and Array] URLify
+53. [String and Array] URLify 
 54. [String and Array] Palindrome Permutation
-55. [String and Array] One away
+55. [String and Array] One edit distance
 56. [String and Array] String Compression
-57. [String and Array] Rotate Matrix
+57. [String and Array] Rotate Matrix 
 58. [String and Array] Zero Matrix
 59. [String and Array] String Rotation
 60. [Linked List] Remove Duplicates
 61. [Linked List] Return Kth to Last
 62. [Linked List] Delete middle Node
 63. [Linked List] Partition
-64. [Linked List] Sum Lists
-65. [Linked List] Palindrome
+64. [Linked List] Add two number
+65. [Linked List] Check Palindrome
 66. [Linked List] Intersection
 67. [Linked List] Loop detection
 68. [Stack and Queue] Three in One
-69. [Stack and Queue] Stack min
+69. [Stack and Queue] Min Stack
 70. [Stack and Queue] Stack of Plates
 71. [Stack and Queue] Queue via stack
 72. [Stack and Queue] Sort stack
 73. [Stack and Queue] Animal shelter
 74. [Tree and Graph] Route Between Nodes
-75. [Tree and Graph] Minimal Tree
+75. [Tree and Graph] Minimal height binary tree
 76. [Tree and Graph] List of depths
-77. [Tree and Graph] Check Balanced
+77. [Tree and Graph] Check Balanced Binary Tree
 78. [Tree and Graph] Validate BST
 79. [Tree and Graph] Successor 
 80. [Tree and Graph] Build Order

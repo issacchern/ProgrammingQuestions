@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ArrayAndString {
 	
-	/* Question 1.
+	/* Question 51.
 	 * Determine if a string has all unique characters
 	 */
 	
@@ -14,16 +14,16 @@ public class ArrayAndString {
 		boolean [] char_set = new boolean[128];
 		for(int i = 0; i < str.length(); i++){
 			int val = str.charAt(i);
-			if(char_set[val]) return false;
+			if(char_set[val]) return false; //appear twice
 			char_set[val] = true;
 		}
 		return true;
 	}
 	//end
 	
-	/* Question 2. 
+	/* Question 52. 
 	 * Given two strings, determine if one is a permutation of the other.
-	 * 
+	 * Hint: sort the two strings and compare.
 	 */
 	
 	public static boolean permutation(String s, String t){
@@ -39,8 +39,9 @@ public class ArrayAndString {
 	
 	//end
 	
-	/* Question 3.
+	/* Question 53.
 	 * Write a method to replace all spaces in a string with %20
+	 * 
 	 */
 	
 	public static String replaceSpaces(char[] str, int length){
@@ -80,7 +81,7 @@ public class ArrayAndString {
 	}
 	//end
 	
-	/* Question 4.
+	/* Question 54.
 	 * Given a string, write a function to check if it is a permutation of palindrome. 
 	 * 
 	 */
@@ -115,14 +116,33 @@ public class ArrayAndString {
 	
 	//end
 	
-	/* Question 5. 
-	 * See leetcode question 14
+	/* Question 55. 
+	 * Given two strings S and T , determine if they are both one edit distance apart.
+	 *  O(n) runtime, O(1) space
 	 * 
 	 */
 	
+	public static boolean isOneEditDistance(String s , String t){	
+		int m = s.length(), n = t.length();
+		if(m > n) {
+			int temp = m;
+			m = n;
+			n = temp;
+		}
+		if( n - m > 1) return false; // more than two differences
+		int i = 0;
+		int shift = n-m; //could be 1, or 0
+		while(i < m && s.charAt(i) == t.charAt(i)) i++;
+		if(i == m) return shift > 0;
+		if(shift == 0) i++; // same length
+		while(i < m && s.charAt(i) == t.charAt(i + shift)) i++;	
+		return i == m;
+	}
+	
+	
 	//end 
 	
-	/* Question 6.
+	/* Question 56.
 	 * Given a string with repeated characters, compress the string so that it becomes shorter
 	 */
 	
@@ -143,7 +163,7 @@ public class ArrayAndString {
 	
 	//end
 	
-	/* Question 7.
+	/* Question 57.
 	 * Write a method to rotate matrix by 90 degree.
 	 * for i = 0  to n
 	 * 		temp = top[i]
@@ -169,7 +189,7 @@ public class ArrayAndString {
 	}
 	//end
 	
-	/* Question 8.
+	/* Question 58.
 	 * Write an algorithm such that if an element is an M*N matrix is 0, its entire row and column is 0.
 	 * 
 	 */
@@ -204,7 +224,7 @@ public class ArrayAndString {
 	
 	//end
 	
-	/* Question 9. 
+	/* Question 59. 
 	 * Given two strings s1 and s2, write code to check if s2 is a rotation of s1.
 	 * 
 	 */
