@@ -3,7 +3,7 @@ package leetcode;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class LeetCode {
 	
 	static class Node{
 		

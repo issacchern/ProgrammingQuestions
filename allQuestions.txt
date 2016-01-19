@@ -1,0 +1,152 @@
+Leetcode Questions:
+1. [Array and String] Two sum
+2. [Array and String] Two sum (sorted)
+3. [Array and String] Two sum (design - support function add and find)
+4. [Array and String] Valid palindrome (ignore space and other symbols)
+5. [Array and String] Implement strstr()
+6. [Array and String] Reverse words in String 
+7. [Array and String] Reverse words in String (no leading or trailing spaces)
+8. [Array and String] String to Integer (atoi)
+9. [Array and String] Valid number 
+10. [Array and String] Longest substring without repeating characters
+11. [Array and String] Longest substring with at most two distinct characters
+12. [Array and String] Missing Ranges
+13. [Array and String] Longest Palindromic Substring
+14. [Array and String] One edit distance
+15. [Array and String] Read N characters given Read4
+16. [Array and String] Read N characters given Read4 (call multiple times)
+17. [Math] Reverse Integer
+18. [Math] Plus One
+19. [Math] Palindrome Number
+20. [Linked List] Merge two sorted lists
+21. [Linked List] Add two numbers
+22. [Linked List] Swap nodes in pairs
+23. [Linked List] Merge K sorted linked list
+24. [Linked List] Copy list with random pointer
+25. [Binary Tree] Validate binary search tree
+26. [Binary Tree] Maximum depth of binary tree
+27. [Binary Tree] Minimum depth of binary tree
+28. [Binary Tree] Balanced binary tree
+29. [Binary Tree] Convert sorted array to balance binary search tree
+30. [Binary Tree] Convert sorted list to balanced binary search tree
+31. [Binary Tree] Binary tree maximum path sum
+32. [Binary Tree] Binary tree upside down
+33. [Bit Manipulation] Single number (twice)
+34. [Bit Manipulation] Single number (thrice)
+35. [Misc] Spiral matrix
+36. [Misc] Integer to Roman
+37. [Misc] Roman to Integer
+38. [Misc] Clone graph
+39. [Stack] Min stack
+40. [Stack] Evaluate Reverse Polish Notation
+41. [Stack] Valid parentheses
+42. [Dynamic Programming] Climbing stairs
+43. [Dynamic Programming] Unique paths
+44. [Dynamic Programming] Unique paths (added obstacles)
+45. [Dynamic Programming] Max sum subarray
+46. [Dynamic Programming] Max product subarray
+47. [Dynamic Programming] Coins in line
+48. [Binary Search] Search insert position
+49. [Binary Search] Find minimum in sorted rotated array
+50. [Binary Search] Find minimum in sorted rotated array (with duplicates)
+
+CareerCup Questions:
+51. [String and Array] Is every character unique in a given string? 
+52. [String and Array] Check permutation
+53. [String and Array] URLify
+54. [String and Array] Palindrome Permutation
+55. [String and Array] One away
+56. [String and Array] String Compression
+57. [String and Array] Rotate Matrix
+58. [String and Array] Zero Matrix
+59. [String and Array] String Rotation
+60. [Linked List] Remove Duplicates
+61. [Linked List] Return Kth to Last
+62. [Linked List] Delete middle Node
+63. [Linked List] Partition
+64. [Linked List] Sum Lists
+65. [Linked List] Palindrome
+66. [Linked List] Intersection
+67. [Linked List] Loop detection
+68. [Stack and Queue] Three in One
+69. [Stack and Queue] Stack min
+70. [Stack and Queue] Stack of Plates
+71. [Stack and Queue] Queue via stack
+72. [Stack and Queue] Sort stack
+73. [Stack and Queue] Animal shelter
+74. [Tree and Graph] Route Between Nodes
+75. [Tree and Graph] Minimal Tree
+76. [Tree and Graph] List of depths
+77. [Tree and Graph] Check Balanced
+78. [Tree and Graph] Validate BST
+79. [Tree and Graph] Successor 
+80. [Tree and Graph] Build Order
+81. [Tree and Graph] First Common Ancestor
+82. [Tree and Graph] BST sequences
+83. [Tree and Graph] Check Subtree
+84. [Tree and Graph] Random Node
+85. [Tree and Graph] Paths with sum
+86. [Bit Manipulation] Insertion
+87. [Bit Manipulation] Binary to String
+88. [Bit Manipulation] Flip bit to win
+89. [Bit Manipulation] Next number
+90. [Bit Manipulation] Next number
+91. [Bit Manipulation] Debugger
+92. [Bit Manipulation] Conversion
+93. [Bit Manipulation] Pairwise Swap
+94. [Bit Manipulation] Draw Line
+95. [Math and Logic Puzzle] The Heavy Pill
+96. [Math and Logic Puzzle] Basketball
+97. [Math and Logic Puzzle] Dominos
+98. [Math and Logic Puzzle] Ants on a Triangle
+99. [Math and Logic Puzzle] Jugs of Water
+100. [Math and Logic Puzzle] Blue-eyed island
+101. [Math and Logic Puzzle] The apocalypse
+102. [Math and Logic Puzzle] The egg drop problem
+103. [Math and Logic Puzzle] 100 Lockers
+104. [Math and Logic Puzzle] Poison
+105. [Object-oriented Design] Deck of Cards
+106. [Object-oriented Design] Call Center
+107. [Object-oriented Design] Jukebox
+108. [Object-oriented Design] Parking Lot
+109. [Object-oriented Design] Online Book Reader
+110. [Object-oriented Design] Jigsaw
+111. [Object-oriented Design] Chat Server
+112. [Object-oriented Design] Othello
+113. [Object-oriented Design] Circular Array
+114. [Object-oriented Design] Minesweeper
+115. [Object-oriented Design] File System
+116. [Object-oriented Design] Hash Table
+117. [Recursion and Dynamic Programming] Triple Step
+118. [Recursion and Dynamic Programming] Robot in a Grid
+119. [Recursion and Dynamic Programming] Magic Index
+120. [Recursion and Dynamic Programming] Power Set
+121. [Recursion and Dynamic Programming] Recursive Multiply
+122. [Recursion and Dynamic Programming] Towers of Hanoi
+123. [Recursion and Dynamic Programming] Permutations without duplicates
+124. [Recursion and Dynamic Programming] Permutations with duplicates
+125. [Recursion and Dynamic Programming] Parens
+126. [Recursion and Dynamic Programming] Paint Fill
+127. [Recursion and Dynamic Programming] Coins
+128. [Recursion and Dynamic Programming] Eight Queens
+129. [Recursion and Dynamic Programming] Stack of Boxes
+130. [Recursion and Dynamic Programming] Boolean Evaluation
+131. [System Design and Scalability] Stock Data
+132. [System Design and Scalability] Social Network
+133. [System Design and Scalability] Web Crawler
+134. [System Design and Scalability] Duplicate URLs
+135. [System Design and Scalability] Cache
+136. [System Design and Scalability] Sales Rank
+137. [System Design and Scalability] Personal Financial Manager
+138. [System Design and Scalability] Pastebin
+139. [Sorting and Searching] Sorted Merge
+140. [Sorting and Searching] Group Anagrams
+141. [Sorting and Searching] Search in Rotated Array
+142. [Sorting and Searching] Sorted Search, No size
+143. [Sorting and Searching] Sparse Search
+144. [Sorting and Searching] Sort Big File
+145. [Sorting and Searching] Missing Int
+146. [Sorting and Searching] Find Duplicates
+147. [Sorting and Searching] Sorted Matrix Search
+148. [Sorting and Searching] Rank from Stream
+149. [Sorting and Searching] Peaks and Valleys

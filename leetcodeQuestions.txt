@@ -1,50 +1,50 @@
-1. Two sum
-2. Two sum (sorted)
-3. Two sum (support function add and find)
-4. Valid palindrome (ignore space and other symbols)
-5. Implement strstr()
-6. Reverse words in String 
-7. Reverse words in String (no leading or trailing spaces)
-8. String to Integer (atoi)
-9. Valid number 
-10. Longest substring without repeating characters
-11. Longest substring with at most two distinct characters
-12. Missing Ranges
-13. Longest Palindromic Substring
-14. One edit distance
-15. Read N characters given Read4
-16. Read N characters given Read4 (call multiple times)
-17. Reverse Integer
-18. Plus One
-19. Palindrome Number
-20. Merge two sorted lists
-21. Add two numbers
-22. Swap nodes in pairs
-23. Merge K sorted linked list
-24. Copy list with random pointer
-25. Validate binary search tree
-26. Maximum depth of binary tree
-27. Minimum depth of binary tree
-28. Balanced binary tree
-29. Convert sorted array to balance binary search tree
-30. Convert sorted list to balanced binary search tree
-31. Binary tree maximum path sum
-32. Binary tree upside down
-33. Single number (twice)
-34. Single number (thrice)
-35. Spiral matrix
-36. Integer to Roman
-37. Roman to Integer
-38. Clone graph
-39. Min stack
-40. Evaluate Reverse Polish Notation
-41. Valid parentheses
-42. Climbing stairs
-43. Unique paths
-44. Unique paths (added obstacles)
-45. Max sum subarray
-46. Max product subarray
-47. Coins in line
-48. Search insert position
-49. Find minimum in sorted rotated array
-50. Find minimum in sorted rotated array (with duplicates)
+1. [Array and String] Two sum
+2. [Array and String] Two sum (sorted)
+3. [Array and String] Two sum (design - support function add and find)
+4. [Array and String] Valid palindrome (ignore space and other symbols)
+5. [Array and String] Implement strstr()
+6. [Array and String] Reverse words in String 
+7. [Array and String] Reverse words in String (no leading or trailing spaces)
+8. [Array and String] String to Integer (atoi)
+9. [Array and String] Valid number 
+10. [Array and String] Longest substring without repeating characters
+11. [Array and String] Longest substring with at most two distinct characters
+12. [Array and String] Missing Ranges
+13. [Array and String] Longest Palindromic Substring
+14. [Array and String] One edit distance
+15. [Array and String] Read N characters given Read4
+16. [Array and String] Read N characters given Read4 (call multiple times)
+17. [Math] Reverse Integer
+18. [Math] Plus One
+19. [Math] Palindrome Number
+20. [Linked List] Merge two sorted lists
+21. [Linked List] Add two numbers
+22. [Linked List] Swap nodes in pairs
+23. [Linked List] Merge K sorted linked list
+24. [Linked List] Copy list with random pointer
+25. [Binary Tree] Validate binary search tree
+26. [Binary Tree] Maximum depth of binary tree
+27. [Binary Tree] Minimum depth of binary tree
+28. [Binary Tree] Balanced binary tree
+29. [Binary Tree] Convert sorted array to balance binary search tree
+30. [Binary Tree] Convert sorted list to balanced binary search tree
+31. [Binary Tree] Binary tree maximum path sum
+32. [Binary Tree] Binary tree upside down
+33. [Bit Manipulation] Single number (twice)
+34. [Bit Manipulation] Single number (thrice)
+35. [Misc] Spiral matrix
+36. [Misc] Integer to Roman
+37. [Misc] Roman to Integer
+38. [Misc] Clone graph
+39. [Stack] Min stack
+40. [Stack] Evaluate Reverse Polish Notation
+41. [Stack] Valid parentheses
+42. [Dynamic Programming] Climbing stairs
+43. [Dynamic Programming] Unique paths
+44. [Dynamic Programming] Unique paths (added obstacles)
+45. [Dynamic Programming] Max sum subarray
+46. [Dynamic Programming] Max product subarray
+47. [Dynamic Programming] Coins in line
+48. [Binary Search] Search insert position
+49. [Binary Search] Find minimum in sorted rotated array
+50. [Binary Search] Find minimum in sorted rotated array (with duplicates)
